@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sagar Maniya
 - 👀 I’m interested in Angular And React.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on awesome angular projects
 - 📫 [reach out on LinkedIn](https://www.linkedin.com/in/maniyasagar/)
 
 <!---
